@@ -62,7 +62,7 @@
 2. **AI Player**:
    - To allow single-player mode, an AI player, multiplayer can be introduced.
    - Implement a Minimax algorithm to allow the system to play against a human.
-     [Link](https://github.com/Gayatri-Shastri7/TicTacToe) 
+     [Link] (https://github.com/Gayatri-Shastri7/TicTacToe) 
 
 3. **Multiplayer**:
    - Future versions of the game could support online multiplayer, where players from different devices can play in real-time.
